@@ -29,6 +29,9 @@
 * 원티드 - Live Talk 20210129
   * [프로젝트를 여러명이서 같이 개발할 때 생기는 문제점과 해결방법](./PDF/20210129_Wanted_Live_Talk.pdf)
 
+* 야곰 테크캐스트 - 20210615
+  * [여러분의 프로젝트에 모든 것이 다 있습니다](./PDF/20210615_%EC%95%BC%EA%B3%B0_%ED%85%8C%ED%81%AC%EC%BA%90%EC%8A%A4%ED%8A%B8.pdf)
+
 ### 기타
 * 20200603
   * [Swift Package Manager](./PDF/20200603_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_SwiftPackageManager.pdf)
