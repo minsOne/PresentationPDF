@@ -1,5 +1,8 @@
 # PresentationPDF
 
+* Let'Swift 2018 - 20181106
+  * [쉽고 재미있는 iOS 디버깅](./PDF/20181106_LetsSwift_Debugging_With%20Xcode_LLDB_and_Chisel.pdf)
+
 * LetUsGo 2019 Spring - 20190303
   * [A Framework Driven Development - 여러분의 프로젝트는 안녕하신가요](./PDF/20190330_LetUsGo19_spring_A_Framework_Driven_Development.pdf)
 
