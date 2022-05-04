@@ -6,6 +6,9 @@
 * LetUsGo 2019 Spring - 20190303
   * [A Framework Driven Development - 여러분의 프로젝트는 안녕하신가요](./PDF/20190330_LetUsGo19_spring_A_Framework_Driven_Development.pdf)
 
+* 네이버테크콘서트 - 20190712
+  * [쉽고 재미있는 iOS 디버깅](./PDF/20190712_%EB%84%A4%EC%9D%B4%EB%B2%84%ED%85%8C%ED%81%AC%EC%BD%98%EC%84%9C%ED%8A%B8__%EC%89%BD%EA%B3%A0_%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94_iOS_%EB%94%94%EB%B2%84%EA%B9%85.pdf)
+
 * LetUsGo 2019 Summer - 20190803
   * [StringInterpolation과 SwiftUI](./PDF/20190803_LetUsGo19_summer_StringInterpolation_swiftUI.pdf)
 
