@@ -1,5 +1,7 @@
 # PresentationPDF
 
+### 대외발표
+
 * Let'Swift 2018 - 20181106
   * [쉽고 재미있는 iOS 디버깅](./PDF/20181106_LetsSwift_Debugging_With%20Xcode_LLDB_and_Chisel.pdf)
 
@@ -24,8 +26,15 @@
 * LetUsGo 2020 - 20201018
   * [DI container를 이용하여 레거시와 모듈화를 동시에 잡기](./PDF/20201018_LetUsGo20_fall_dependency_injection_container.pdf)
 
-* 기타
-  * [20200603 - Swift Package Manager](./PDF/20200603_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_SwiftPackageManager.pdf)
-  * [20210427 - 서드파티 라이브러리 잘 관리하기(Static Library와 Dynamic Library의 관점 분리)](./PDF/20210427_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC_%EC%9E%98_%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.pdf)
-  * [20220306 - 모듈화 시대 시작 with Tuist(개발 관점의 변화)](./PDF/20220306_%EB%AA%A8%EB%93%88%ED%99%94_%EC%8B%9C%EB%8C%80_%EC%8B%9C%EC%9E%91_with_Tuist_%EB%B0%B0%ED%8F%AC%EB%B2%84%EC%A0%84.pdf)
-  * [20220502 - Tuist Focus와 InjectionIII의 Hot Reload를 이용하여 빠른 개발하기](./PDF/20220502_DemoApp%EA%B3%BC_Inject%EC%9D%98_Hot_Reload%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC_%EB%B9%A0%EB%A5%B8_%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0.pdf)
+* 원티드 - Live Talk 20210129
+  * [프로젝트를 여러명이서 같이 개발할 때 생기는 문제점과 해결방법](./PDF/20210129_Wanted_Live_Talk.pdf)
+
+### 기타
+* 20200603
+  * [Swift Package Manager](./PDF/20200603_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_SwiftPackageManager.pdf)
+* 20210427
+  * [서드파티 라이브러리 잘 관리하기(Static Library와 Dynamic Library의 관점 분리)](./PDF/20210427_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_%EC%84%9C%EB%93%9C%ED%8C%8C%ED%8B%B0_%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC_%EC%9E%98_%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0.pdf)
+* 20220306
+  * [모듈화 시대 시작 with Tuist(개발 관점의 변화)](./PDF/20220306_%EB%AA%A8%EB%93%88%ED%99%94_%EC%8B%9C%EB%8C%80_%EC%8B%9C%EC%9E%91_with_Tuist_%EB%B0%B0%ED%8F%AC%EB%B2%84%EC%A0%84.pdf)
+* 20220502
+  * [Tuist Focus와 InjectionIII의 Hot Reload를 이용하여 빠른 개발하기](./PDF/20220502_DemoApp%EA%B3%BC_Inject%EC%9D%98_Hot_Reload%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC_%EB%B9%A0%EB%A5%B8_%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0.pdf)
