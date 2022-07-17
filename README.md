@@ -53,3 +53,6 @@
 
 * 20220614
   * [우리도 Preview를 사용할 수 있을까?](./PDF/20220614_UIModule_Preview.pdf)
+
+* 20220716
+  * [InjectionIII의 Hot Reload를 이용하여 앱 개발을 좀 더 편하게 하기 with Tuist](./PDF/20220716_InjectionIII%EC%9D%98%20Hot%20Reload%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC%20%EC%95%B1%20%EA%B0%9C%EB%B0%9C%EC%9D%84%20%EC%A2%80%20%EB%8D%94%20%ED%8E%B8%ED%95%98%EA%B2%8C%20%ED%95%98%EA%B8%B0.pdf)
