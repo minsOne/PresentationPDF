@@ -35,6 +35,9 @@
 * 야곰 테크캐스트 - 20210615
   * [여러분의 프로젝트에 모든 것이 다 있습니다](./PDF/20210615_%EC%95%BC%EA%B3%B0_%ED%85%8C%ED%81%AC%EC%BA%90%EC%8A%A4%ED%8A%B8.pdf)
 
+* 이프카카오 2022 - 20221109
+  * [카카오뱅크 iOS 프로젝트의 모듈화 여정 - Tuist를 활용한 모듈 아키텍처 설계 사례](./PDF/20221109_Ifkakao.pdf)
+
 ### 기타
 * 20200603
   * [Swift Package Manager](./PDF/20200603_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_SwiftPackageManager.pdf)
