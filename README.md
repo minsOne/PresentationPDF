@@ -44,6 +44,9 @@
 * Tuist Night - 20240325
   * [모듈로 나누면 알아두면 좋을 3가지 팁](./PDF/20240325_TuistNight_모듈로_나누면_알아두면_좋을_3가지_팁.pdf)
 
+* Let'Swift 2024 - 20241125
+  * [Plugin 패턴을 이용하여 기능 확장하기](./PDF/20241125_Let'Swift_Plugin_패턴을_이용하여_기능_확장하기.pdf)
+
 ### 기타
 * 20200603
   * [Swift Package Manager](./PDF/20200603_%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC_SwiftPackageManager.pdf)
